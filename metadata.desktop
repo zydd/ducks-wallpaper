@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Ducks
+
+Type=Service
+ServiceTypes=Plasma/DeclarativeWallpaper
+Icon=preferences-desktop-wallpaper
+X-Plasma-MainScript=ui/main.qml
+X-KDE-PluginInfo-Name=org.kde.custom
+X-KDE-PluginInfo-EnabledByDefault=true
+
